@@ -28,5 +28,5 @@ Activity 15 to 26 for code snippets
 https://developer.chrome.com/docs/workbox/modules/workbox-cacheable-response/
 
 ## Pictures of deployed
-<img src = "develop/jate_dowloaded.png"><img>
-<img src = "develop/JATE.png"><img>
+<img src = "./develop/jate_dowloaded.png"><img>
+<img src = "./develop/JATE.png"><img>
