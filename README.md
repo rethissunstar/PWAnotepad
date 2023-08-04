@@ -17,7 +17,7 @@ This is a pad that can be installed on a browser that will maintain a database a
 "I had some help from Marco Severino with some errors I was experiencing."
 
  ## Github link: 
-https://github.com/"github.com/rethissunstar"
+https://github.com/rethissunstar/PWAnotepad
 
  ## test: 
 "head on over to heroku https://pwa-notepad-d8c812950e34.herokuapp.com/"
@@ -26,3 +26,7 @@ https://github.com/"github.com/rethissunstar"
 basecode comes from Xandromus on github
 Activity 15 to 26 for code snippets
 https://developer.chrome.com/docs/workbox/modules/workbox-cacheable-response/
+
+## Pictures of deployed
+<img src = "develop/jate_dowloaded.png"><img>
+<img src = "develop/JATE.png"><img>
