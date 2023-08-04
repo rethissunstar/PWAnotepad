@@ -3,5 +3,6 @@ This is a pad that can be installed on a browser that will maintain a database a
 
 
 ## Resources
+basecode comes from Xandromus on github
 Activity 15 to 26 for code snippets
 https://developer.chrome.com/docs/workbox/modules/workbox-cacheable-response/
