@@ -1,0 +1,27 @@
+{
+  "name": "JATE",
+  "version": "1.0.0",
+  "description": "This is a web application that is downloadable using an indexedDB",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "concurrently \"cd client && npm run build\" \"cd server && npm run server\"",
+    "start": "npm run build && cd server && node server.js",
+    "server": "cd server server.js --ignore client",
+    "build": "cd client && npm run build",
+    "install": "cd server && npm i && cd ../client && npm i",
+    "client": "cd client && npm start"
+  },
+  "keywords": [],
+  "author": "rethissunstar using base code from github.com/Xandromus ",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "if-env": "^1.0.4",
+    "workbox-webpack-plugin": "^7.0.0"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "mini-css-extract-plugin": "^2.7.6",
+    "nodemon": "^2.0.4"
+  }
+}
