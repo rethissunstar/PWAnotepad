@@ -1,5 +1,7 @@
 {
+
   "name": "JATE",
+
   "version": "1.0.0",
   "description": "This is a web application that is downloadable using an indexedDB",
   "main": "index.js",
