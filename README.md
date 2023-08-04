@@ -23,5 +23,6 @@ https://github.com/"github.com/rethissunstar"
 "head on over to heroku https://pwa-notepad-d8c812950e34.herokuapp.com/"
 
 ## Resources
+basecode comes from Xandromus on github
 Activity 15 to 26 for code snippets
 https://developer.chrome.com/docs/workbox/modules/workbox-cacheable-response/
