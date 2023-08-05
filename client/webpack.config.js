@@ -29,7 +29,7 @@ module.exports = () => {
         patterns: [
           {
             from: path.resolve(__dirname, 'src/images'),
-            to: 'assets/icons',
+            to: 'assets',
           },
         ],
       }),
@@ -48,6 +48,7 @@ module.exports = () => {
             src: path.resolve("src/images/logo.png"),
             sizes: [96, 128, 192, 256, 384, 512],
             destination: path.join('assets', 'icons'),
+            filename: 'logo.png',
           },
         ],
        }),
