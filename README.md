@@ -21,6 +21,8 @@ https://github.com/rethissunstar/PWAnotepad
 
  ## test: 
 "head on over to heroku https://pwa-notepad-d8c812950e34.herokuapp.com/"
+A note on the test and use - the database updates under id:1 while auto-incrementing the previous change.  
+To see the most recent in the application under inspect tools you will always look to the first option which is keyid id:1
 
 ## Resources
 basecode comes from Xandromus on github
