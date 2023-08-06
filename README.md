@@ -14,7 +14,7 @@ This is a pad that can be installed on a browser that will maintain a database a
 "MIT License"
 
  ## Contributors: 
-"I had some help from Marco Severino with some errors I was experiencing."
+"I had some help from Marco Severino with some errors I was experiencing.  Tutor Scott McNally helped with the getting the database to read the recent."
 
  ## Github link: 
 https://github.com/rethissunstar/PWAnotepad
