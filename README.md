@@ -26,6 +26,7 @@ https://github.com/rethissunstar/PWAnotepad
 basecode comes from Xandromus on github
 Activity 15 to 26 for code snippets
 https://developer.chrome.com/docs/workbox/modules/workbox-cacheable-response/
+https://stackoverflow.com/questions/56244300/indexeddb-idbobjectstore-add-error-a-generated-key-could-not-be-inserted-into
 
 ## Pictures of deployed
 <img src = "Develop/jate_dowloaded.png"><img>
